@@ -8,7 +8,7 @@ const renderLicenseBadge = (license) => {
 
 const renderLicenseLink = (license) => {
   if(license !== "None") {
-    return `\n* [License](#license)\n`
+    return `* [License](#license)`
   }
   return ""
 }
@@ -23,17 +23,17 @@ function generateMarkdown(data) {
 
   ### Table of Contents
 
-  *[Installation](#installation)
+  * [Installation](#installation)
 
-  *[Useage](#usage)
+  * [Useage](#usage)
 
   ${renderLicenseLink(data.license)}
 
-  *[Contributing](#contributing)
+  * [Contributing](#contributing)
 
-  *[Test](#test)
+  * [Test](#test)
 
-  *[Questions](#questions)
+  * [Questions](#questions)
 
   ### Installation
 
