@@ -1,25 +1,23 @@
-# ReadMe 
+# ReadMe Generator 
   ![Github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ### Description
 
-  ReadMe generator
+  ReadMe Generator
 
   ### Table of Contents
 
-  *[Installation](#installation)
+  * [Installation](#installation)
 
-  *[Useage](#usage)
+  * [Useage](#usage)
 
-  
-* [License](#license)
+  * [License](#license)
 
+  * [Contributing](#contributing)
 
-  *[Contributing](#contributing)
+  * [Test](#test)
 
-  *[Test](#test)
-
-  *[Questions](#questions)
+  * [Questions](#questions)
 
   ### Installation
 
@@ -30,7 +28,7 @@
   ```
 
   ### Usage
-  pull request
+  install node.js
 
   ## License
    
